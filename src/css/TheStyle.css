@@ -1,0 +1,27 @@
+/**
+My Name: Jingxin Jiang
+My Student Number: 991657051
+Final Project
+Date: 2022.04.11
+*/
+.root{
+    
+}
+Label{
+    -fx-text-fill:black;
+    -fx-font-size: 13px;
+    
+}
+.title{
+    -fx-text-fill:blue;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+Button{
+-fx-text-fill: black;
+
+}
+Button:hover{
+-fx-text-fill: red;
+-fx-background-color:greenyellow;
+}
